@@ -1,2 +1,5 @@
-# Video-Media-Player-Client-Server-
-CMPE 207 Course Project
+# COURSE : CMPE207
+# TOPIC  : Course Project - Design a multi-threded RTSP based Media Player Server and Client.
+           It should use RTSP for Signalling and RTP for media transmissin.
+
+
